@@ -1,4 +1,4 @@
-## HTML & CSS Homework Week2 Homework6
+## HTML & CSS Homework Week1 Day4
 # Requirement: Design your portfolio by following any one of the below mentioned styles.
 
 # Portfolio
